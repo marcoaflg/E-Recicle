@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/web/public/assets/logo.svg">
+  <img src="/web/src/assets/logo.svg">
 </h1>
 
 Este projeto faz parte do curso EAD de Análise e Desenvolvimento de Sistemas do Centro Universitário Senac, desenvolvido pelo grupo 15:
