@@ -17,9 +17,10 @@ O E-Recicle é uma aplicação Web e Mobile desenvolvida com o objetivo de auxil
 
 Tecnológias Utilizadas:
 
-- Figma
+- React.JS
+- React Native
+- TypeScript
 - NodeJS
-- Github
 
 ## Instalação:
 
