@@ -46,34 +46,38 @@ Tecnológias Utilizadas:
 
 2. **Executando a Aplicação:**
   
-  ## Web
+ ## Server
 
 Primeiro:
+```bash
+cd server
+```
+Rode:
+```bash
+yarn && yarn dev
+```
+ou:
+```bash
+npm install && npm run dev
+```
 
-```sh
+## Web
+
+Primeiro:
+```bash
 cd web
 ```
 Rode:
 ```bash
-yarn
+yarn && yarn start
 ```
 ou:
 ```bash
-npm install
-```
-Em seguida:
-```bash
-nodemon src/server.js
-```
-E agora acesse no navegador:
-
-```bash
-http://localhost:3000/
+npm install && npm start
 ```
 ## Mobile
 
 Primeiro:
-
 ```bash
 cd mobile
 ```
